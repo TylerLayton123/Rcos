@@ -1,3 +1,4 @@
+// Intro:
 
 console.log(100);
 console.log(10240909423094);
@@ -32,3 +33,44 @@ console.log('    Remove whitespace   '.trim());
 console.log(Math.floor(Math.random() * 100));
 console.log(Math.ceil(43.8));
 console.log(Number.isInteger(2017));
+
+
+
+//Variables:
+
+var favoriteFood = "pizza";
+console.log(favoriteFood);
+var numOfSlices = 8;
+console.log(numOfSlices);
+
+let changeMe = true;
+changeMe = false;
+console.log(changeMe);
+
+const entree = 'Enchiladas';
+console.log(entree);
+entree = 'Tacos';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
